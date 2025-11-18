@@ -1,0 +1,131 @@
+{
+    "categories": [{
+            "id": "dapur",
+            "name": "Dapur",
+            "icon": "kitchen"
+        },
+        {
+            "id": "ruang_tamu",
+            "name": "Ruang Tamu",
+            "icon": "weekend"
+        },
+        {
+            "id": "kamar_tidur",
+            "name": "Kamar Tidur",
+            "icon": "bed"
+        }
+    ],
+    "products": {
+        "dapur": [{
+                "name": "Piring Keramik",
+                "price": 12000,
+                "discount": 0.5,
+                "image": "assets/images/piring.png"
+            },
+            {
+                "name": "Sendok Stainless",
+                "price": 5000,
+                "discount": 0.5,
+                "image": "assets/images/sendok.png"
+            },
+            {
+                "name": "Gelas Kaca",
+                "price": 8000,
+                "discount": 0.2,
+                "image": "assets/images/gelas.png"
+            },
+            {
+                "name": "Talenan Kayu",
+                "price": 15000,
+                "discount": 0.1,
+                "image": "assets/images/talenan.png"
+            },
+            {
+                "name": "Panci Stainless",
+                "price": 90000,
+                "discount": 0.3,
+                "image": "assets/images/panci.png"
+            },
+            {
+                "name": "Kompor Gas Mini",
+                "price": 250000,
+                "discount": 0.15,
+                "image": "assets/images/kompor.png"
+            }
+        ],
+        "ruang_tamu": [{
+                "name": "Vas Bunga",
+                "price": 35000,
+                "discount": 0.5,
+                "image": "assets/images/vas.png"
+            },
+            {
+                "name": "Bantal Sofa",
+                "price": 25000,
+                "discount": 0.5,
+                "image": "assets/images/bantal.png"
+            },
+            {
+                "name": "Lampu Meja",
+                "price": 45000,
+                "discount": 0.2,
+                "image": "assets/images/lampu_kamar.png"
+            },
+            {
+                "name": "Karpet Mini",
+                "price": 60000,
+                "discount": 0.25,
+                "image": "assets/images/karpet_mini.png"
+            },
+            {
+                "name": "Rak Buku",
+                "price": 120000,
+                "discount": 0.3,
+                "image": "assets/images/rak_buku.png"
+            },
+            {
+                "name": "Jam Dinding",
+                "price": 30000,
+                "discount": 0.1,
+                "image": "assets/images/jam.png"
+            }
+        ],
+        "kamar_tidur": [{
+                "name": "Lampu Tidur",
+                "price": 45000,
+                "discount": 0.5,
+                "image": "assets/images/lampu_kamar.png"
+            },
+            {
+                "name": "Selimut Lembut",
+                "price": 70000,
+                "discount": 0.5,
+                "image": "assets/images/selimut.png"
+            },
+            {
+                "name": "Bantal Leher",
+                "price": 20000,
+                "discount": 0.2,
+                "image": "assets/images/bantal_leher.png"
+            },
+            {
+                "name": "Gorden Kamar",
+                "price": 80000,
+                "discount": 0.25,
+                "image": "assets/images/gorden.png"
+            },
+            {
+                "name": "Meja Nakas",
+                "price": 150000,
+                "discount": 0.3,
+                "image": "assets/images/meja_nakas.png"
+            },
+            {
+                "name": "Karpet Kamar",
+                "price": 50000,
+                "discount": 0.15,
+                "image": "assets/images/karpet_kamar.png"
+            }
+        ]
+    }
+}
