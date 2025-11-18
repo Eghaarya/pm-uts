@@ -7,4 +7,4 @@
 ![Preview Gambar](preview.jpeg)
 
 ## File PDF UTS
-[Download PDF](221080200077_Egha Arya Affandi_UTS.pdf)
+[Download PDF](221080200077_Egha%20Arya%20Affandi_UTS.pdf)
